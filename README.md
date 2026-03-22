@@ -14,10 +14,5 @@ A simple chess game built using **HTML**, **CSS**, and **JavaScript**.
 
 💡 Recommended: Use a local server (like Live Server in VS Code)
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
 ## License
 This project is licensed under the MIT License.
